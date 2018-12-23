@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+application.properties
+aws-policies.json
+!src/main/resources/config/application.properties
+build/
+target/
+templates_generated/
+data_cache/
+*.iml
+*.tgz
+*.log*
